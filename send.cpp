@@ -118,7 +118,7 @@ void send(const char* fileName) {
             exit(1);
         }
 	else{
-		printf("Received ack from reciver class   \n");
+		printf("Received ack from receiver class   \n");
 	}
     }
 
@@ -131,7 +131,7 @@ void send(const char* fileName) {
             exit(1);
         }
         else{
-            printf("Notified reciver that we are out of things to send");
+            printf("Notified receiver that we are out of things to send");
         }
     /* Close the file */
     fclose(fp);
