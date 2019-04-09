@@ -4,7 +4,7 @@
     Sender: g++ -o sender sender.cpp
             ./sender file.txt
             
-    Receiver: g++ -o recv recv.cpp 
+   Receiver: g++ -o recv recv.cpp 
               ./recv
 3.) Lorena and Kema worked on the Sender file.
     Kenneth and Brandon worked on the Reciever file. 
